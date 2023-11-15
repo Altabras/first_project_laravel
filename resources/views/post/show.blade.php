@@ -4,6 +4,7 @@
 
            <div>{{$post->id}}. {{$post->title}}</div>
             <div>{{$post->content}}</div>
+        <div>{{$post->image}}</div>
 
     </div>
 
