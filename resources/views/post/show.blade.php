@@ -19,7 +19,7 @@
     </form>
 
     <div>
-        <a href="{{route('post.index')}}">Back</a>
+        <a href="{{route('post.index')}}">BACK</a>
 
     </div>
 
